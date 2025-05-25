@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shervin-taheripour
+- 👀 I’m interested in data science and experimental math projects
+- 🌱 I’m currently learning machine learning and prediction models for fast-paced data flows, particularly financial data
+- 💞️ I’m looking to collaborate on any data science project that involves paython coding
+- 📫 Reach out to me here on github or on discord 'shervin_taheripour'
